@@ -1,4 +1,7 @@
-*.exe
-*.pdf
-__pycache__/
-.ipynb_checkpoints/
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+matplotlib
